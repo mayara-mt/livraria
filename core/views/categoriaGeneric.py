@@ -1,6 +1,6 @@
 from core.models import Categoria
 from rest_framework.generics import ListCreateAPIView, RetrieveUpdateDestroyAPIView
-from core.serializers import CategoriaSerializer
+from core.serializers.categoriaSerializer import CategoriaSerializer
 
 
 class CategoriasListGeneric(ListCreateAPIView):

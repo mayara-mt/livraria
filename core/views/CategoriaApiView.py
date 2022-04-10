@@ -5,7 +5,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 
-from core.serializers import CategoriaSerializer
+from core.serializers.categoriaSerializer import CategoriaSerializer
 
 
 class CategoriasList(APIView):

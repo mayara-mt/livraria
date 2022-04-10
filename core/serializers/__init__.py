@@ -1,0 +1,6 @@
+from .autorSerializer import AutorSerializer
+from .categoriaSerializer import CategoriaSerializer
+from .compraSerializer import CriarEditarItensCompraSerializer, CompraSerializer
+from .editoraSerializer import EditoraNestedSerializer, EditoraSerializer
+from .itensCompraSerializer import CriarEditarItensCompraSerializer, ItensCompraSerializer
+from .livroSerializer import LivroDetailSerializer, LivroSerializer

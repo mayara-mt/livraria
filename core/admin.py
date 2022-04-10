@@ -1,5 +1,4 @@
 from django.contrib import admin
-
 from core.models import Autor, Categoria, Compra, Editora, Livro, ItensCompra
 
 admin.site.register(Autor)
