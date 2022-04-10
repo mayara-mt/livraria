@@ -1,4 +1,4 @@
-<h1>Example Fast API</h1> 
+<h1>Livraria API</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-brightgreen"/>
@@ -56,7 +56,7 @@ Todas as dependencias estão listadas no arquivo requirement.txt e podem ser bai
 
 ## Como-executar:
 
-Para rodar o exemplo, siga os passos:
+Para rodar o projeto, siga os passos:
 
 1 - Baixe o projeto localmente (git clone)
 
